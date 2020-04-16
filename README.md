@@ -24,7 +24,7 @@ On the software side, there's a web page that shows you the power consumption ov
 
 ### Block Diagram
 
-![Smart plug block diagram](smart-plug-block-diagram.png)
+![Web Clock Example](1587000602616568.mp4)
 
 ## Challenges
 
@@ -38,10 +38,8 @@ Finally, building a web interface can also be quite complicated, so I expect tha
 
 ## Timeline
 
-What parts of the project do you anticipate you will complete in each of the next 5 weeks?
+What parts of the project do you anticipate you will complete in each of the next 3 weeks?
 
 - Week 1: Write proposal, borrow a WiFi Arduino, make sure I can get WiFi to work
 - Week 2: Acquire hardware components: relay, current sensor, WiFi, and build a prototype circuit with those pieces.
-- Week 3: Build a first version of the software that displays current power usage and an on/off switch.
-- Week 4: Integrate all the components together and debug.
-- Week 5: Present complete project.
+- Week 3: Present complete project.
